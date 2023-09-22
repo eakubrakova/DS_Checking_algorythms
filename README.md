@@ -15,6 +15,7 @@
 
 # Какие данные были использованы: для сравнения скорости работы алгоритма
 Были использованы входные файлы game_core_1 и game_core_2.
+https://colab.research.google.com/drive/1oIWKZkIpPVHVKNh-rseiqe8X4TCZi_hA?usp=sharing
 
 # Этапы работы над проектом.
 Выбор оптимального алгоритма.
@@ -22,5 +23,5 @@
 
 # Результаты:
 В результате использования алгоритма бинарного поиска скорость работы программы была увеличена. 
-
+https://colab.research.google.com/drive/1oIWKZkIpPVHVKNh-rseiqe8X4TCZi_hA?usp=sharing (проверка через %time)
 
